@@ -1,0 +1,13 @@
+{
+  "name": "kayvora-ai-audit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kayvora AI - Free AI Business Audit Generator",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.90.0"
+  }
+}
